@@ -1,4 +1,4 @@
-Shopify Theme / React
+# Shopify Theme / React
 
 The two main files:
 
